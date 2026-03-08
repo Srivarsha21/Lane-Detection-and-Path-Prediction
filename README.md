@@ -26,3 +26,31 @@ Video Input → Preprocessing → Lane Detection → Lane Geometry Analysis → 
 
 ```bash
 pip install -r requirements.txt
+
+Run the project
+```bash
+python src/lane_detection.py
+
+Demo
+Run the web interface:
+```bash
+streamlit run app/streamlit_app.py
+
+Applications
+
+Autonomous vehicles
+
+ADAS systems
+
+Smart transportation
+
+Road safety monitoring
+
+---
+## Run the Project
+
+Run main program:
+```bash
+python src/lane_detection.py
+
+Press ESC to stop.
